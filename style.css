@@ -46,6 +46,7 @@ body{
 }
 
 input{
+    color: aliceblue;
     width: 320px;
     border: none;
     padding: 25px;
